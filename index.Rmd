@@ -2,7 +2,7 @@
 title: "R-Ladies Themed<br>xaringan Template"
 subtitle: "Presentation subtitle"
 author: "R-Ladies Global"
-institute: "Your Institute"
+institute: "QUT"
 date: "March 16th, 2021"
 output:
   xaringan::moon_reader:
